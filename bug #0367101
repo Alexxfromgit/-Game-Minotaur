@@ -1,0 +1,35 @@
+Priority: Normal
+Severity: Minor
+Reproducibility: Sometimes
+Platform: PC
+OS: Windows
+OS Version: 7 x86
+
+Summary: Win. Cards. The number of cards is not displayed on the top of the screen after clicking on the "Cards" menu
+
+Description: The number of cards is not displayed on the top of the screen after clicking on the "Cards" menu
+
+Steps To Reproduce:
+
+Win7 x86 SP1 Ultimate
+Build #0.2.3
+
+1. Launch the "Minotaur" game
+2. Click on the "Extras" button
+3. Click on the "Cards" button
+4. Take a look at the counter of the cards on the top of the screen
+
+Actual result: The number of cards is not displayed on the top of the screen after clicking on the "Cards" menu
+
+Expected result: The number of cards is displayed on the top of the screen after clicking on the "Cards" menu
+
+Additional Information:
+
+Preconditions:
+1. Game cards are received during the game playing
+
+Attached Files:
+
+bug0367101.jpg
+
+
