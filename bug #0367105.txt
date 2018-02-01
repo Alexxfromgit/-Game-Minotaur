@@ -1,0 +1,33 @@
+Priority: Normal
+Severity: Major
+Reproducibility: Always
+Platform: PC
+OS: Windows
+OS Version: 7 x86
+
+Summary: Win. Movies. The name encoding of not open video is not set correctly under the video icon after clicking on the "Movies" menu
+
+Description: The name encoding of not open video is not set correctly under the video icon after clicking on the "Movies" menu
+
+Steps To Reproduce:
+
+Win7 x86 SP1 Ultimate
+Build #0.2.3
+
+1. Launch the "Minotaur" game
+2. Click on the "Extras" button
+3. Click on the "Movies" button
+4. Take a look at the video names under the video icons
+
+Actual result: The name encoding of not open video is not set correctly under the video icon after clicking on the "Movies" menu
+
+Expected result: The name encoding of not open video is set correctly under the video icon after clicking on the "Movies" menu
+
+Additional Information:
+
+Preconditions:
+1. Game movies are received during the game playing
+
+Attached Files:
+
+bug0367105.jpg
