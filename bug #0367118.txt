@@ -5,7 +5,7 @@ Platform: PC
 OS: Windows
 OS Version: 7 x86
 
-Summary: Win. Gameplay. Punctuation marks are located at the bottom of the text line in the dialog window after the game process starts
+Summary: Win. ZH. Punctuation marks are located at the bottom of the text line in the dialog window after the game process starts
 
 Description: Punctuation marks are located at the bottom of the text line in the dialog window after the game process starts
 
