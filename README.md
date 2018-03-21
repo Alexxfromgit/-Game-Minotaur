@@ -1,5 +1,5 @@
 <p align="center">
-![Image of Minotaur](http://cdn.akamai.steamstatic.com/steam/apps/680590/header.jpg?t=1517677480)
+  <img src="http://cdn.akamai.steamstatic.com/steam/apps/680590/header.jpg?t=1517677480">
 </p>
   
 # -Game-Minotaur
