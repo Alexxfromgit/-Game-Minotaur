@@ -5,6 +5,7 @@
   Bug reports for the "Minotaur" game on the PC.
 
   Game build #0.2.3
+  
 </p>
 
 # ОБ ЭТОЙ ИГРЕ
