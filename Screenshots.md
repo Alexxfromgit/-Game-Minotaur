@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="http://cdn.akamai.steamstatic.com/steam/apps/680590/header.jpg?t=1517677480">
+  <img src="https://image.ibb.co/cHrwLS/2018_02_01_11_50_36bug2.jpg">
   
-  # -Game-Minotaur
-  Bug reports for the "Minotaur" game on the PC.
+  # bug #0367101
 
-  Game build #0.2.3
   </p>
